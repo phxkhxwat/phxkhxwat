@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Phakhawat Taechareuangvanich currently I learning at Prasarnmit Demonstration Secondary School
+I'm Phakhawat Taechareuangvanich 
+I currently learning at Prasarnmit Demonstration Secondary School
 
 ### What language do I coded in
 * Python
