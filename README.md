@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Phakhawat Taechareuangvanich 
-I currently learning at Prasarnmit Demonstration Secondary School
+Currently studying at KMITL in Robotics And AI Engineeing Major
 
 ### What language do I coded in
 * Python
